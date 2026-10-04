@@ -1,4 +1,3 @@
-```markdown
 # In-Class Exploratory Data Analysis (EDA)
 
 This repository is part of the **SPU-F1-2026 GitHub Classroom** and is designed to provide hands-on practice with **Exploratory Data Analysis (EDA)** and data visualization using Python.
